@@ -7,7 +7,7 @@ class ManhattanBridge {
     var WW = min(windowHeight * (75 / 70), windowWidth) * 0.99;
     var WH = WW / (85 / 70);
     var sqsz = WH / 70;
-    var mmmm = -64;
+    var mmmm = -62;
     var v, t, j, k, ts, L, m;
     translate(Ocenter[0], Ocenter[1]);
     translate(0 * sqsz, -35 * sqsz);
